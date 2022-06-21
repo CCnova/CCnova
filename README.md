@@ -4,8 +4,6 @@
 
 - 🔥 Full Stack Developer
 
-- 🔭 I’m currently working at [CI&T](https://ciandt.com/us/en-us)
-
 - 💬 Ask me about **JavaScript, TypeScript, Python, ReactJS, HTML, CSS, SQL, Node.JS**
 
 <br></br>
